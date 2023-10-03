@@ -1,5 +1,8 @@
 # practical5.1
 
+## Python Notebook
+https://github.com/benroth8/practical5.1/blob/main/assignment_5_1_starter/assignment_5_1.ipynb
+
 ## Findings/Conclusion/Next Steps
 
 Based on the analysis of the data on coffee house coupons, I was able to identify several differences between groups that accepted the coupons and those that didn't. I'll summarize these findings in different categories.
